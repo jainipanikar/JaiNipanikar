@@ -1,6 +1,5 @@
-# Hi there 👋, 
-## My name is Jai Nipanikar
-### Java Programmer 
+# Hi there 👋, I'm Jai 
+## Java Programmer 
 I am motivated TechBridge graduate with recent training in Java programming and Google Cloud Platform.  Bringing 14+ years Banking and Customer Service experience.  Seeking to use new and existing skills to design innovative, cost-effective Java solutions for your company.  Strong team sales and team interaction experience. Excellent reputation for resolving issues and problems and improving overall customer satisfaction. Very successful in implementing new procedures increasing productivity. Superior knowledge of market & customer dynamics.
 
 Skills: Java Programming | Unit Testing | Coding | Debugging  Object-Oriented Programming (OOP) | Google Cloud Platform Staff Training and Development| Contract Negotiations | In-depth Analysis
